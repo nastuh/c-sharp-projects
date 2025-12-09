@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\FileExtensionChanger\FileExtensionChanger\obj\Debug\net8.0-windows\FileExtensionChanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\FileExtensionChanger\FileExtensionChanger\obj\Debug\net8.0-windows\FileExtensionChanger.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FileExtensionChanger\FileExtensionChanger\obj\Debug\net8.0-windows\FileExtensionChanger.AssemblyInfo.cs
+C:\Users\User\Desktop\FileExtensionChanger\FileExtensionChanger\obj\Debug\net8.0-windows\FileExtensionChanger.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FileExtensionChanger\FileExtensionChanger\bin\Debug\net8.0-windows\FileExtensionChanger.exe
+C:\Users\User\Desktop\FileExtensionChanger\FileExtensionChanger\bin\Debug\net8.0-windows\FileExtensionChanger.deps.json
+C:\Users\User\Desktop\FileExtensionChanger\FileExtensionChanger\bin\Debug\net8.0-windows\FileExtensionChanger.runtimeconfig.json
+C:\Users\User\Desktop\FileExtensionChanger\FileExtensionChanger\bin\Debug\net8.0-windows\FileExtensionChanger.dll
+C:\Users\User\Desktop\FileExtensionChanger\FileExtensionChanger\bin\Debug\net8.0-windows\FileExtensionChanger.pdb
+C:\Users\User\Desktop\FileExtensionChanger\FileExtensionChanger\obj\Debug\net8.0-windows\FileExtensionChanger.dll
+C:\Users\User\Desktop\FileExtensionChanger\FileExtensionChanger\obj\Debug\net8.0-windows\refint\FileExtensionChanger.dll
+C:\Users\User\Desktop\FileExtensionChanger\FileExtensionChanger\obj\Debug\net8.0-windows\FileExtensionChanger.pdb
+C:\Users\User\Desktop\FileExtensionChanger\FileExtensionChanger\obj\Debug\net8.0-windows\FileExtensionChanger.genruntimeconfig.cache
+C:\Users\User\Desktop\FileExtensionChanger\FileExtensionChanger\obj\Debug\net8.0-windows\ref\FileExtensionChanger.dll
+C:\Users\User\Desktop\FileExtensionChanger\FileExtensionChanger\obj\Debug\net8.0-windows\FileExtensionChanger.Form1.resources
+C:\Users\User\Desktop\FileExtensionChanger\FileExtensionChanger\obj\Debug\net8.0-windows\FileExtensionChanger.csproj.GenerateResource.cache
